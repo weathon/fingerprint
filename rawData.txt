@@ -1,0 +1,1 @@
+https://mcule.s3.amazonaws.com/database/mcule_purchasable_full_221208.smi.gz
