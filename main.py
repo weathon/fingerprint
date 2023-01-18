@@ -367,5 +367,5 @@ import pylab
 pylab.plot(baseLineAnswer)
 pylab.plot(CMTAnswer)
 pylab.savefig("ans.png")
-print(f"SUM: {np.sum(len(BFFound))-len(np.array(CMTFound))}")
+print(f"SUM: {np.sum(len (BFFound))-len(np.array(CMTFound))}")
 
